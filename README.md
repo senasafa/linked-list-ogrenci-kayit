@@ -1,0 +1,1 @@
+# linked-list-ogrenci-kayit
